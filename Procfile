@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run deploy.py --theme.base light --theme.primaryColor #4B51FF
+web: sh setup.sh && streamlit run deploy.py --theme.base light
